@@ -1,10 +1,10 @@
-### Hi there, I'm Sebastian 👋
+# Hi there, I'm Sebastian 👋
 
-### About ###
+## About ##
 I am a self-taught Web developer :computer: with a passion for solving :wrench: problems through code. I enjoy learning new technologies 
 
 
-### Tech Stack ###
+## Tech Stack ##
 ![image](	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![image](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![image](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
