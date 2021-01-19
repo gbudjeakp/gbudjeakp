@@ -3,16 +3,9 @@
 <!--
 **gbudjeakp/gbudjeakp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on contributing to OpenSource
-- 🌱 I’m currently learning wordPress
-- 👯 I’m looking to collaborate on ....
-- 💬 Ask me about music and coding challenges.
--->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gbudjeakp)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<div align="center">
 
   **📫 Reach me at:**<br>
 
