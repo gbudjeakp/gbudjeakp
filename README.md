@@ -16,7 +16,7 @@ I am a self-taught Web developer :computer: with a passion for solving :wrench: 
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-### Current Goals ###
+## Current Goals ##
 
   - 🔭 I’m currently working on Contributing to Open source
   - 🌱 I’m currently learning wordPress and starting a blog
@@ -27,7 +27,7 @@ I am a self-taught Web developer :computer: with a passion for solving :wrench: 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gbudjeakp&show_icons=true&theme=radical)
 
 
-#### Contact ####
+### Contact ###
   **📫 Reach me at:**<br>
 
   [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/opakholis)](https://twitter.com/theamaturewebd1)
