@@ -1,7 +1,7 @@
 # Hi there, I'm Sebastian 👋
 
 ## About ##
-I am a self-taught Web developer :computer: with a passion for solving :wrench: problems through code. I enjoy learning new technologies 
+I am a self-taught Web developer :computer: with a passion for solving :wrench: problems through code. I enjoy learning new technologies and building amazing products 
 
 
 ## Tech Stack ##
