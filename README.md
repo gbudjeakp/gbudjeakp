@@ -2,7 +2,8 @@
 
 ## About ##
 I am a self-taught Web developer :computer: with a passion for solving :wrench: problems through code. 
-I enjoy learning new technologies and building amazing products. Open source activist and Cyber security Hobbyist.  
+I enjoy learning new technologies and building amazing products. Open source activist and Cyber security Hobbyist. Come check out my [Blog](https://dev.to/gbudjeakp)
+ 
 
 
 ## Tech Stack ##
