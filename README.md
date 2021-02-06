@@ -1,7 +1,8 @@
 # Hi there, I'm Sebastian 👋
 
 ## About ##
-I am a self-taught Web developer :computer: with a passion for solving :wrench: problems through code. I enjoy learning new technologies and building amazing products 
+I am a self-taught Web developer :computer: with a passion for solving :wrench: problems through code. 
+I enjoy learning new technologies and building amazing products. Open source activist and Cyber security Hobbyist.  
 
 
 ## Tech Stack ##
@@ -19,7 +20,7 @@ I am a self-taught Web developer :computer: with a passion for solving :wrench: 
 ## Current Goals ##
 
   - 🔭 I’m currently working on Contributing to Open source
-  - 🌱 I’m currently learning wordPress and starting a blog
+  - 🌱 I’m currently learning Ethical Hacking. 
   - 👯 If you have any projects you would like to colaborate, reach out to me.
   - 💬 Ask me about anything
 
