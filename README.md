@@ -41,5 +41,5 @@ Come check out my blog at[![DEV to Badge](https://img.shields.io/badge/dev.to-0A
   [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Master_Crazy)
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akpevwen-sebastian-gbudje/)
   [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13428061/sebastian-gbudje?tab=profile)
-  [![Google](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://gbudjeakp@gmail.com)
+  [![Google](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gbudjeakp@gmail.com)
 
