@@ -2,8 +2,10 @@
 
 ## About ##
 I am a self-taught Web developer :computer: with a passion for solving :wrench: problems through code. 
-I enjoy learning new technologies and building amazing products. Open source activist and Cyber security Hobbyist. Come check out my [Blog](https://dev.to/gbudjeakp)
+I enjoy learning new technologies and building amazing products. Open source activist and Cyber security Hobbyist. 
 Currently looking for a full-time role and acquiring new knowledge.
+Come check out my blog at  [![DEV to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white
+)](https://dev.to/gbudjeakp)
 
 
 ## Familliar Languages ##
@@ -25,7 +27,7 @@ Currently looking for a full-time role and acquiring new knowledge.
 ## Current Goals ##
 
   - 🔭 I’m currently working on Contributing to Open source
-  - 🌱 I’m currently learning Ethical Hacking. 
+  - 🌱 I’m currently learning the concepts and workings of Ethical Hacking. 
   - 👯 If you have any projects you would like to colaborate, reach out to me.
   - 💬 Ask me about anything
 
@@ -36,7 +38,7 @@ Currently looking for a full-time role and acquiring new knowledge.
 ### Contact ###
   **📫 Reach me at:**<br>
 ### Socials
-  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/opakholis)](https://twitter.com/Master_Crazy)
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/opakholis/)](https://www.linkedin.com/in/akpevwen-sebastian-gbudje/)
+  [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Master_Crazy)
+  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akpevwen-sebastian-gbudje/)
   [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13428061/sebastian-gbudje?tab=profile)
 
