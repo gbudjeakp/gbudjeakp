@@ -8,7 +8,7 @@ Come check out my blog at[![DEV to Badge](https://img.shields.io/badge/dev.to-0A
 )](https://dev.to/gbudjeakp)
 
 
-## Familliar Languages ##
+## Familliar Technologies ##
 ![image](	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![image](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![image](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
