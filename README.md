@@ -4,7 +4,7 @@
 I am a self-taught Web developer :computer: with a passion for solving :wrench: problems through code. 
 I enjoy learning new technologies and building amazing products. Open source activist and Cyber security Hobbyist. 
 Currently looking for a full-time role and acquiring new knowledge.
-Come check out my blog at  [![DEV to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white
+Come check out my blog at[![DEV to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white
 )](https://dev.to/gbudjeakp)
 
 
