@@ -24,8 +24,7 @@ Come check out my blog at[![DEV to Badge](https://img.shields.io/badge/dev.to-0A
 
 ## Current Goals ##
 
-  - 🔭 I’m currently working on Contributing to Open source
-  - 🌱 I’m currently learning the concepts and workings of Ethical Hacking. 
+  - 🔭 Learning SalesForce
   - 👯 If you have any projects you would like to colaborate, reach out to me.
   - 💬 Ask me about anything
 
