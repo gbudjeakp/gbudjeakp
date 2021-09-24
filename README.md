@@ -29,7 +29,7 @@ Come check out my blog at[![DEV to Badge](https://img.shields.io/badge/dev.to-0A
   - 💬 Ask me about anything
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gbudjeakp&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gbudjeakp&show_icon=true&theme=radical)
 
 
 ### Contact ###
