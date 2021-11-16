@@ -26,7 +26,7 @@ Come check out my blog at[![DEV to Badge](https://img.shields.io/badge/dev.to-0A
 
 ## Current Goals ##
 
-  - 🔭 Learning SalesForce
+  - 🔭 Might Get back into Game Development
   - 👯 If you have any projects you would like to colaborate, reach out to me.
   - 💬 Ask me about anything
 
