@@ -24,6 +24,7 @@ Come check out my blog at[![DEV to Badge](https://img.shields.io/badge/dev.to-0A
 ![Salesforce Badge](https://img.shields.io/badge/Salesforce-00A1E0?logo=salesforce&logoColor=fff&style=flat-square)
 ![Sass Badge](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=flat-square)
 
+
 ## Current Goals ##
 
   - 🔭 Might Get back into Game Development
