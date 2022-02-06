@@ -1,4 +1,4 @@
-# Hi there, I'm Sebastian :wave:
+# Hi there, I'm Sebastian 
 
 ## About ##
 Everyone calls me the code monger (No one calls me that) because of how much of an absolute unit I am on a code base (Not true. I can barely get my terminal to work properly) let me know if you've got exciting projects. 
