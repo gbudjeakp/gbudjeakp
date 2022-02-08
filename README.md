@@ -5,7 +5,6 @@ Everyone calls me the code monger (No one calls me that) because of how much of 
 Come check out my blog at[![DEV to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white
 )](https://dev.to/gbudjeakp)
 
-    const domain="."+window.location.hostname.split('.')[window.location.hostname.split('.').length-2]+'.'+window.location.hostname.split('.')[window.location.hostname.split('.').length-1]; 
 
 
 ### Contact ###
