@@ -1,4 +1,5 @@
 # Hi there, I'm Sebastian 
+![Linkedin_Backdrop](https://user-images.githubusercontent.com/61554248/162631638-260b7672-6d45-49e0-a42b-e997385be58b.png)
 
 ## About ##
 Everyone calls me the code monger (No one calls me that) because of how much of an absolute unit I am on a code base (Not true. I can barely get my terminal to work properly) let me know if you've got exciting projects. 
