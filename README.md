@@ -7,6 +7,9 @@ Come check out my blog at[![DEV to Badge](https://img.shields.io/badge/dev.to-0A
 )](https://dev.to/gbudjeakp)
 
 
+## Designer ##
+Some small designers i made when i dabbled in the UI/UX field for a bit 
+
 
 ### Contact ###
   **📫 Reach me at:**<br>
