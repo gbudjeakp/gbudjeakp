@@ -11,7 +11,7 @@ Come check out my blog at[![DEV to Badge](https://img.shields.io/badge/dev.to-0A
 Some small designers i made when i dabbled in the UI/UX field for a bit. Checkout some of my design at 
  ![Dribble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 
-Click link the see designs https://dribbble.com/Xzebastian
+Click the link to see the designs https://dribbble.com/Xzebastian
 
 
 ### Contact ###
