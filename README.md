@@ -1,4 +1,4 @@
-# Hi there, I'm Sebastian 
+# Hi there, I'm Sebastian. I made the backdrop
 ![Linkedin_Backdrop](https://user-images.githubusercontent.com/61554248/162631638-260b7672-6d45-49e0-a42b-e997385be58b.png)
 
 ## About ##
