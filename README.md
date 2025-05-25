@@ -1,8 +1,7 @@
 
 
-![ChatGPT Image May 24, 2025, 09_21_36 PM](https://github.com/user-attachments/assets/d95feeeb-8ce4-49b2-87e8-1d7b60a7635a)
 
-# 👋🏿 Hi, I’m Akpevwen Gbudje
+# 👋🏿 Hi, I’m Sebastian Gbudje
 
 **Software Engineer | Game Engine Dev | Startup Founder**
 
