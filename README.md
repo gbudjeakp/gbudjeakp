@@ -17,9 +17,6 @@
 ---
 
 ## 💡 Highlights
-
-- 🔁 Built **Building-u-feedback** – a feedback + gamification app (UUIDs, Redis, admin dashboards)
-- 🔌 Real-time Socket.IO systems: referral bonuses, quiz rewards, and stat checklists
 - 🔧 Monorepo wizardry (NX + pnpm), automated deployments, and clean CI/CD with GitHub Actions
 - ✍🏿 Clear, consistent changelogs that actually make sense
 
