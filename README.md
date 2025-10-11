@@ -3,7 +3,7 @@
 
 # 👋🏿 Hi, I’m Sebastian Gbudje
 
-**Software Engineer | Game Engine Dev | Startup Founder**
+**Software Engineer (infra Guy) | Game Engine Dev | Startup Founder**
 
 ---
 
