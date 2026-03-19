@@ -7,22 +7,22 @@
 
 ---
 
-## ⚡ What I Do
+## What I Do
 
-- 🧠 Craft scalable systems (React, Node, Docker, Redis, MariaDB)
-- 🎮 Build **Opxium** – a custom game engine in C using Vulkan  
-- 🚀 Founder of [**Songram**](https://songram.app) – a social platform for music creators  
-- 🛠️ Love blending low-level performance with high-level user experience
-
----
-
-## 💡 Highlights
-- 🔧 Monorepo wizardry (NX + pnpm), automated deployments, and clean CI/CD with GitHub Actions
-- ✍🏿 Clear, consistent changelogs that actually make sense
+- Craft scalable systems (React, Node, Docker, Redis, MariaDB)
+- Build **Opxium** – a custom game engine in C using Vulkan  
+- Founder of [**Songram**](https://songram.app) – a social platform for music creators  
+- Love blending low-level performance with high-level user experience
 
 ---
 
-## 🎮 Always Building
+## Highlights
+- Monorepo wizardry (NX + pnpm), automated deployments, and clean CI/CD with GitHub Actions
+- Clear, consistent changelogs that actually make sense
+
+---
+
+## Always Building
 
 From engines to experiences, I build tools, games, and systems that **connect**, **scale**, and **create value**.
 
