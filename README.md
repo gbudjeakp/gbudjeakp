@@ -11,7 +11,7 @@
 
 - Craft scalable systems (React, Node, Docker, Redis, MariaDB)
 - Build **Opxium** – a custom game engine in C using Vulkan  
-- Founder of [**Songram**](https://songram.app) – a social platform for music creators  
+- Co-founder of [**Songram**](https://songram.app) – a social platform for music creators  
 - Love blending low-level performance with high-level user experience
 
 ---
