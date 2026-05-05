@@ -26,4 +26,4 @@
 
 From engines to experiences, I build tools, games, and systems that **connect**, **scale**, and **create value**.
 
-[🔗 GitHub](https://github.com/gbudjeakp) | [🌐 songram.app](https://songram.app) | [Check out my website](http://bazcodes.com/)
+[🔗 GitHub](https://github.com/gbudjeakp) | [🌐 songram.app](https://www.songram.app) | [Check out my website](http://bazcodes.com/)
